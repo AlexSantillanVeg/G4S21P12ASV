@@ -1,0 +1,4 @@
+{"nombre":"test","edad":"1","correo":"test@test"}
+{"nombre":"a","edad":"a","correo":"a"}
+{"nombre":"a","edad":"a","correo":"a"}
+{"nombre":"jonathan","edad":"20","correo":"test@test.com"}
